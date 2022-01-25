@@ -1,0 +1,18 @@
+.my-caption
+{
+    background-color: rgba(255, 231, 159, 0.64);
+    bottom: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.h-550{ height: 550px;}
+.h-200{ height: 200px;}
+.h-157{ height: 157px;}
+.h-300{ height: 300px;}
+.h-50{ height: 50px;}
+
+
+.f-size-22{ font-size: 22px; }
+.f-size-16{ font-size: 16px; }
+.f-size-14{ font-size: 14px; }
